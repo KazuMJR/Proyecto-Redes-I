@@ -14,7 +14,7 @@ Debido al tamaño de las imágenes QEMU y de las máquinas virtuales incluidas, 
 
 
 
-\*\*Descarga:\*\* \[Google Drive](https://drive.google.com/file/d/1fDwl6OWA\_4AZRdiNzMXAkyEyKELAewN4/view?usp=drive\_link)
+\*\*Descarga:\*\* \[Google Drive]([https://drive.google.com/file/d/1fDwl6OWA\_4AZRdiNzMXAkyEyKELAewN4/view?usp=drive\_link](https://drive.google.com/drive/folders/1EeQCIqHazy4c98Qh0inMNj6FGb0C05xS?usp=sharing))
 
 
 
